@@ -5,3 +5,5 @@
 - 🤔 I’m looking for help with understanding C++ pointers
 - 📫 How to reach me: Find me on Discord @kojobailey
 - ⚡ Fun fact: I have a YouTube channel?!
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KojoBailey&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
