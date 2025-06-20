@@ -9,3 +9,9 @@
 - ⚡ Fun fact: I have a [YouTube channel](https://www.youtube.com/@kojobailey) where I post a variety of content related to my projects!
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KojoBailey&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+### Languages I Use
+[![Languages I use](https://skillicons.dev/icons?i=cpp,cmake,cs,react,html,css,md)](https://skillicons.dev)
+
+### Software I Use
+[![Languages I use](https://skillicons.dev/icons?i=vscode,unity,pr,ps)](https://skillicons.dev)
