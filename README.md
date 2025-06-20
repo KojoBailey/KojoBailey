@@ -15,3 +15,8 @@
 
 ### Software I Use
 [![Languages I use](https://skillicons.dev/icons?i=vscode,unity,pr,ps)](https://skillicons.dev)
+
+### My Stats
+<!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KojoBailey&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KojoBailey&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KojoBailey&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
