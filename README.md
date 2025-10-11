@@ -12,7 +12,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=KojoBailey&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Languages I've Use
-[![Languages I use](https://skillicons.dev/icons?i=cpp,cs,haskell,react)](https://skillicons.dev)
+[![Languages I use](https://skillicons.dev/icons?i=cpp,c,cs,haskell,react)](https://skillicons.dev)
 
 ### DSLs I Know
 [![Markups I use](https://skillicons.dev/icons?i=cmake,html,css,md)](https://skillicons.dev)
