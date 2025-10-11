@@ -6,7 +6,7 @@
 - 🎮 Creating my own fangames and mods in Unity with C#.
 - 🤔 Exploring C# for frontend GUI so I can have C++ as my backend, useful for more accessible tools.
 - 🏫 Studying at the University of Liverpool for Computer Science BSc.
-- 📫 Reach me via Discord @`kojobailey`. Better if you join [my Discord server](https://discord.gg/GEGbcRn) so we have a mutual.
+- 📫 Reach me via Discord `@kojobailey`. Better if you join [my Discord server](https://discord.gg/GEGbcRn) so we have a mutual.
 - ⚡ Fun fact: I have a [YouTube channel](https://www.youtube.com/@kojobailey) where I post a variety of content related to my projects!
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KojoBailey&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
