@@ -1,4 +1,4 @@
-### Welcome. Bienvenido. よろしくお願い。 Willkommen.
+### Welcome | Akwaaba | Bem-vindo | よろしくお願い | Willkommen
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C3NIG2A)
 
 - 🔭 Working on videogame modding tools and API plugins, primarily for [*JoJo's Bizarre Adventure: All-Star Battle R*](https://jojomodding.miraheze.org/wiki/All-Star_Battle_R).
@@ -11,13 +11,13 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KojoBailey&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Languages I've Use
-[![Languages I use](https://skillicons.dev/icons?i=cpp,c,cs,haskell,react)](https://skillicons.dev)
+### Languages I've used
+[![Languages I've used](https://skillicons.dev/icons?i=cpp,c,cs,haskell,react)](https://skillicons.dev)
 
-### DSLs I Know
-[![Markups I use](https://skillicons.dev/icons?i=cmake,html,css,md)](https://skillicons.dev)
+### DSLs I know
+[![DSLs I know](https://skillicons.dev/icons?i=cmake,html,css,md)](https://skillicons.dev)
 
-### My Stats
+### My stats
 <!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KojoBailey&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KojoBailey&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KojoBailey&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
