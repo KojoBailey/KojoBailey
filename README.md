@@ -14,7 +14,7 @@
 ### Languages I've used
 [![Languages I've used](https://skillicons.dev/icons?i=cpp,c,cs,haskell,react)](https://skillicons.dev)
 
-### DSLs I know
+### [DSL](https://en.wikipedia.org/wiki/Domain-specific_language)s I know
 [![DSLs I know](https://skillicons.dev/icons?i=cmake,html,css,md)](https://skillicons.dev)
 
 ### My stats
