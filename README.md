@@ -1,4 +1,3 @@
-### Welcome | Akwaaba | Bienvenido | よろしくお願い | 欢迎
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C3NIG2A)
 
 - 🔭 Working on videogame modding tools and API plugins, primarily for [*JoJo's Bizarre Adventure: All-Star Battle R*](https://jojomodding.miraheze.org/wiki/All-Star_Battle_R).
