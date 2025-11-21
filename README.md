@@ -9,7 +9,7 @@
 - 📫 Reach me via Discord `@kojobailey`. Better if you join [my Discord server](https://discord.gg/GEGbcRn) so we have a mutual server to then DM each other.
 - ⚡ Fun fact: I have a [YouTube channel](https://www.youtube.com/@kojobailey) where I post a variety of content related to my projects!
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KojoBailey&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![If you can see this, not my fault!!](https://github-profile-trophy.vercel.app/?username=KojoBailey&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Languages I've actively used in projects
 [![Languages I've used](https://skillicons.dev/icons?i=cpp,c,cs,haskell,javascript)](https://skillicons.dev)
