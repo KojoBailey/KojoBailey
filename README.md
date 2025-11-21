@@ -10,8 +10,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KojoBailey&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Languages I've used
-[![Languages I've used](https://skillicons.dev/icons?i=cpp,c,cs,haskell,react)](https://skillicons.dev)
+### Languages I've actively used in projects
+[![Languages I've used](https://skillicons.dev/icons?i=cpp,c,cs,haskell,javascript)](https://skillicons.dev)
 
 ### [DSL](https://en.wikipedia.org/wiki/Domain-specific_language)s I know
 [![DSLs I know](https://skillicons.dev/icons?i=cmake,html,css,md)](https://skillicons.dev)
