@@ -16,23 +16,23 @@
 [![DSLs I know](https://skillicons.dev/icons?i=cmake,html,css,md)](https://skillicons.dev)
 
 ### My stats
-<p align="center">
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=KojoBailey&theme=darkhub&title=-Issues,-PullRequest,-Reviews&row=2&column=3">
   </a>
-</p>
+</div>
 
 <!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
-<p align="center">
+<div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KojoBailey&theme=monokai">
   </a>
-</p>
-<p align="center">
+</div>
+<div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KojoBailey&theme=monokai">
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KojoBailey&theme=monokai">
   </a>
-</p>
+</div>
