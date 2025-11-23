@@ -10,7 +10,19 @@
 - ⚡ Fun fact: I have a [YouTube channel](https://www.youtube.com/@kojobailey) where I post a variety of content related to my projects!
 
 ### Languages I've actively used in projects
-[![Languages I've used](https://skillicons.dev/icons?i=cpp,c,cs,haskell,javascript)](https://skillicons.dev)
+[![Languages I've used](https://skillicons.dev/icons?i=cpp,haskell,unity,javascript,react,lua)](https://skillicons.dev)
+
+C++, Haskell, C# (Unity), JavaScript, React JSX, Lua
+
+### Languages I've only dabbled with
+[![Languages I've dabbled with](https://skillicons.dev/icons?i=c,py,x86)](https://skillicons.dev)
+
+C, Python
+
+### Languages I want to try
+[![Languages to try](https://skillicons.dev/icons?i=rust,ocaml)](https://skillicons.dev)
+
+Rust, OCaml
 
 ### [DSL](https://en.wikipedia.org/wiki/Domain-specific_language)s I know
 [![DSLs I know](https://skillicons.dev/icons?i=cmake,html,css,md)](https://skillicons.dev)
