@@ -24,9 +24,6 @@ C, Python
 
 Rust, OCaml, Zig
 
-### [DSL](https://en.wikipedia.org/wiki/Domain-specific_language)s I know
-[![DSLs I know](https://skillicons.dev/icons?i=cmake,html,css,md)](https://skillicons.dev)
-
 ### My stats
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
