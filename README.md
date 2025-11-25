@@ -20,9 +20,9 @@ C++, Haskell, C# (Unity), JavaScript, React JSX, Lua
 C, Python
 
 ### Languages I want to try
-[![Languages to try](https://skillicons.dev/icons?i=rust,ocaml)](https://skillicons.dev)
+[![Languages to try](https://skillicons.dev/icons?i=rust,ocaml,zig)](https://skillicons.dev)
 
-Rust, OCaml
+Rust, OCaml, Zig
 
 ### [DSL](https://en.wikipedia.org/wiki/Domain-specific_language)s I know
 [![DSLs I know](https://skillicons.dev/icons?i=cmake,html,css,md)](https://skillicons.dev)
