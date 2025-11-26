@@ -31,11 +31,11 @@
 
 <br/>
 
-Welcome! My name is Kojo, and there are 2 things I aim to dedicate myself to:
-1. the design and implementation of systems to the convenience and reduced stress of users, as well as
-2. the perpetual journey of learning new things and sharing useful and interesting teachings with others.
+Welcome! My name is Kojo, and there are 2 key things I strive to dedicate myself to in life:
+1. The design and implementation of **systems** for users, and
+2. **Learning** new things and **sharing** knowledge with others.
 
-In pursuing the latter, I hope to figure out ways to achieve the former, making use of programming and the power of **computer science**!
+In pursuing the latter, I hope to develop ways to achieve the former, making use of programming and the power of **computer science**!
 
 ---
 
@@ -45,11 +45,9 @@ I am currently...
 - 🔭 Working on videogame modding tools and DLL/API plugins.
 - 🌱 Building proficiency in C++ as my "main" language (for now).
 - 🎮 Developing my own fangames and mods in Unity with C#.
-- 🌐 Nurturing love-hate relationship with web dev.
+- 🌐 Nurturing a love-hate relationship with web dev.
 - 🏫 Studying Haskell in university and out of interest for functional programming.
 - 👀 Keen to try out Rust, and maybe OCaml too...
-- 📫 Reach me via Discord `@kojobailey`. Better if you join [my Discord server](https://discord.gg/GEGbcRn) so we have a mutual server to then DM each other.
-- ⚡ Fun fact: I have a [YouTube channel](https://www.youtube.com/@kojobailey) where I post a variety of content related to my projects!
 
 ### Languages I've actively used in projects
 [![Languages I've used](https://skillicons.dev/icons?i=cpp,haskell,unity,javascript,react,lua)](https://skillicons.dev)
