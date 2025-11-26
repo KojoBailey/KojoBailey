@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a target="_blank" href="https://ko-fi.com/C0C3NIG2A"><img alt="Ko-fi" title="Ko-fi" src="https://raw.githubusercontent.com/KojoBailey/KojoBailey/8c0a0ceede1778ceb6eb65d4bcec8371aaced1d3/images/Ko-fi.svg"/></a>
+  <a target="_blank" href="https://ko-fi.com/C0C3NIG2A"><img alt="Ko-fi" title="Ko-fi" src="https://raw.githubusercontent.com/KojoBailey/KojoBailey/80a1729d90411163e04df365a5ba981f4512b68f/images/Ko-fi.svg"/></a>
 </p>
 
 ---
