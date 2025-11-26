@@ -21,6 +21,8 @@
   <a target="_blank" href="https://ko-fi.com/C0C3NIG2A"><img alt="Ko-fi" title="Ko-fi" src="https://raw.githubusercontent.com/KojoBailey/KojoBailey/9596d14bc1bd02c902e2fcbb2b13c1d8ab635dee/images/Ko-fi.svg"/></a>
 </p>
 
+<p style="float: right"><img src="https://github.com/KojoBailey/KojoBailey/blob/main/images/ascii-art-200.png?raw=true" width="150px"/></p>
+
 - 🔭 Working on videogame modding tools and DLL/API plugins.
 - 🌱 Building proficiency in C++ as my "main" language (for now).
 - 🎮 Developing my own fangames and mods in Unity with C#.
