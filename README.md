@@ -97,7 +97,7 @@ First exposed to by [Roblox](https://create.roblox.com/), but later used for man
 
 Although useful to learn, I haven't had much reason to use it over C++, and typically only have to work with it in actual projects when doing C-interop. I've also worked with C-like pseudocode when reverse engineering.
 
-![Python Badge](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white&labelColor=%23222222&color=%23fe0048)
+![Python Badge](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white&labelColor=%23222222&color=%23fe0048) [![Python Example 1](https://img.shields.io/badge/Number_Guesser-blue?style=flat-square)](https://github.com/KojoBailey/number-guesser-py)
 
 Despite its popularity, I haven't at all needed it in my projects so far.
 
