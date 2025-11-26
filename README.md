@@ -2,7 +2,7 @@
   <img src="https://yt3.googleusercontent.com/7r17XGuPuHq3pHYl-VJtHtSmZx98I9S96YZPKVS31NU1P6OD50W3chIbtJMHyboWr00esGJSng=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"/>
 </p>
 
-<!-- https://icons8.com/ #E6006D -->
+<!-- https://icons8.com/ #fe0048 -->
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/kojo-bailey/"><!--
     --><img height="36px" alt="LinkedIn" title="LinkedIn" src="https://github.com/KojoBailey/KojoBailey/blob/main/icons/LinkedIn.svg"/></a>
