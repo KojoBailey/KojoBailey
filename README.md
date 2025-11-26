@@ -80,10 +80,6 @@ Introduced in university, a language that isn't particularly easy to use but is 
 
 Learned solely for modding and creating games in [Unity](https://unity.com/), but I have my eyes on it for GUI development as an alternative to C++.
 
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-blue?style=flat-square&logo=javascript&logoColor=white&labelColor=%23222222&color=%23fe0048)
-
-The scripting language of the web, I've mostly used it for [Anki](https://apps.ankiweb.net/) templates, of all things.
-
 ![React Badge](https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white&labelColor=%23222222&color=%23fe0048) [![React Example 1](https://img.shields.io/badge/jojomodding.com-blue?style=flat-square)](https://github.com/JoJosBizarreModdingCommunity/JoJosBizarreModdingCommunity.github.io)
 
 My go-to for actual web development, first learned when creating [jojomodding.com](https://jojomodding.com/), although I'm yet to explore other options.
@@ -100,6 +96,10 @@ Although useful to learn, I haven't had much reason to use it over C++, and typi
 ![Python Badge](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white&labelColor=%23222222&color=%23fe0048) [![Python Example 1](https://img.shields.io/badge/Number_Guesser-blue?style=flat-square)](https://github.com/KojoBailey/number-guesser-py)
 
 Despite its popularity, I haven't at all needed it in my projects so far.
+
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-blue?style=flat-square&logo=javascript&logoColor=white&labelColor=%23222222&color=%23fe0048) [![JavaScript Example 1](https://img.shields.io/badge/Anki_Language_Card_Templates-blue?style=flat-square)](https://github.com/KojoBailey/anki-language-card-templates)
+
+The scripting language of the web, I've mostly used it for [Anki](https://apps.ankiweb.net/) templates, of all things. I have used React JSX, but I suppose it is different enough to separate.
 
 ![x86 Badge](https://img.shields.io/badge/x86_assembly-blue?style=flat-square&logo=cashapp&logoColor=white&labelColor=%23222222&color=%23fe0048)
 
