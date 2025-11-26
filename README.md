@@ -6,21 +6,21 @@
 
 <!-- https://icons8.com/ #fe0048 -->
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/kojo-bailey/"><!--
+  <a href="https://www.linkedin.com/in/kojo-bailey/"><!--
     --><img height="36px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/KojoBailey/KojoBailey/9596d14bc1bd02c902e2fcbb2b13c1d8ab635dee/images/LinkedIn.svg"/></a>
   &#8287;&#8287;&#8287;
-  <a target="_blank" href="https://www.youtube.com/@KojoBailey"><!--
+  <a href="https://www.youtube.com/@KojoBailey"><!--
     --><img height="36px" alt="YouTube" title="YouTube" src="https://raw.githubusercontent.com/KojoBailey/KojoBailey/9596d14bc1bd02c902e2fcbb2b13c1d8ab635dee/images/YouTube.svg"/></a>
   &#8287;&#8287;&#8287;
-  <a target="_blank" href="https://www.instagram.com/kojobailey/"><!--
+  <a href="https://www.instagram.com/kojobailey/"><!--
     --><img height="36px" alt="Instragram" title="Instragram" src="https://github.com/KojoBailey/KojoBailey/blob/main/images/Instagram.png?raw=true"/></a>
   &#8287;&#8287;&#8287;
-  <a target="_blank" href="https://x.com/KojoBailey"><!--
+  <a href="https://x.com/KojoBailey"><!--
     --><img height="36px" alt="Twitter (X)" title="Twitter (X)" src="https://raw.githubusercontent.com/KojoBailey/KojoBailey/9596d14bc1bd02c902e2fcbb2b13c1d8ab635dee/images/Twitter.svg"/></a>
 </p>
 
 <p align="center">
-  <a target="_blank" href="https://ko-fi.com/C0C3NIG2A"><img alt="Ko-fi" title="Ko-fi" src="https://raw.githubusercontent.com/KojoBailey/KojoBailey/80a1729d90411163e04df365a5ba981f4512b68f/images/Ko-fi.svg"/></a>
+  <a href="https://ko-fi.com/C0C3NIG2A"><img alt="Ko-fi" title="Ko-fi" src="https://raw.githubusercontent.com/KojoBailey/KojoBailey/80a1729d90411163e04df365a5ba981f4512b68f/images/Ko-fi.svg"/></a>
 </p>
 
 ---
@@ -65,11 +65,11 @@
 
 ### My stats
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=KojoBailey&theme=darkhub&title=-Issues,-PullRequest,-Reviews&row=2&column=3">
   </a>
 <!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KojoBailey&theme=monokai">
   </a>
 </div>
