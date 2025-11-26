@@ -17,6 +17,9 @@
   &#8287;&#8287;&#8287;
   <a href="https://x.com/KojoBailey"><!--
     --><img height="36px" alt="Twitter (X)" title="Twitter (X)" src="https://raw.githubusercontent.com/KojoBailey/KojoBailey/9596d14bc1bd02c902e2fcbb2b13c1d8ab635dee/images/Twitter.svg"/></a>
+  &#8287;&#8287;&#8287;
+  <a href="https://discord.gg/GEGbcRn"><!--
+    --><img height="36px" alt="Discord" title="Discord" src="https://raw.githubusercontent.com/KojoBailey/KojoBailey/cab51b5434fc57650a1487e9370bce5c36856ffa/images/Discord.svg"/></a>
 </p>
 
 <p align="center">
@@ -26,10 +29,19 @@
 <details>
 <summary><b>Click here to learn about me...</b></summary>
 
+<br/>
+
+Welcome! My name is Kojo, and there are 2 things I aim to dedicate myself to:
+1. the design and implementation of systems to the convenience and reduced stress of users, as well as
+2. the perpetual journey of learning new things and sharing useful and interesting teachings with others.
+
+In pursuing the latter, I hope to figure out ways to achieve the former, making use of programming and the power of **computer science**!
+
 ---
 
 <img alt="ASCII" align="right" height="220px" src="https://github.com/KojoBailey/KojoBailey/blob/main/images/ascii-art-200.png?raw=true"/>
 
+I am currently...
 - 🔭 Working on videogame modding tools and DLL/API plugins.
 - 🌱 Building proficiency in C++ as my "main" language (for now).
 - 🎮 Developing my own fangames and mods in Unity with C#.
