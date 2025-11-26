@@ -38,7 +38,7 @@ Welcome! 🙌 My name is **Kojo**, and there are 2 key things I strive to dedica
 
 In pursuing the latter, I hope to develop ways to achieve the former, making use of programming and the power of **computer science**!
 
-🌏 Ethnically, I am from the UK 🇬🇧, Ireland 🇮🇪, Ghana 🇬🇭, and Germany 🇩🇪, and have lived in Kuala Lumpur 🇲🇾, Ho Chi Minh City 🇻🇳, La Palma 🇪🇸, Belfast 🍀, Doha 🇶🇦, and currently in my first year at the University of Liverpool 🏫 for Computer Science BSc.
+🌏 Ethnically, I am from the UK 🇬🇧, Ireland 🇮🇪, Ghana 🇬🇭, and Germany 🇩🇪, have lived in Kuala Lumpur 🇲🇾, Ho Chi Minh City 🇻🇳, La Palma 🇪🇸, Belfast 🍀, Doha 🇶🇦, and am currently in my first year at the University of Liverpool 🏫 for Computer Science BSc while my immediate family lives in Chennai 🇮🇳.
 
 Despite this, I only fluently speak English, pero mi español no es terrible y lo estudié en el colegio, and I'm also making efforts to learn Japanese 🇯🇵 and Mandarin Chinese 🇨🇳.
 
