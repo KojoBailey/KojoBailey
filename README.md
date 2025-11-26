@@ -54,15 +54,15 @@ Despite this, I only fluently speak English, pero mi español no es terrible y l
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+      srcset="dist/github-contribution-grid-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+      srcset="dist/github-contribution-grid-snake.svg"
     />
     <img
       alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+      src="dist/github-contribution-grid-snake.svg"
     />
   </picture>
 </div>
