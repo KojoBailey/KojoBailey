@@ -68,15 +68,15 @@ Despite this, I only fluently speak English, pero mi español no es terrible y l
 </div>
 
 ## Languages I've used "properly"
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-blue?style=flat-square&logo=cplusplus&labelColor=%23222222&color=%23fe0048) [![C++ Example 1](https://img.shields.io/badge/Example%201-blue?style=flat-square)](https://github.com/KojoBailey/binary-cpp-library) [![C++ Example 2](https://img.shields.io/badge/Example%202-blue?style=flat-square)](https://github.com/KojoBailey/nucc-cpp-library) [![C++ Example 3](https://img.shields.io/badge/Example%203-blue?style=flat-square)](https://github.com/KojoBailey/JAPI-XFBIN-Merger)
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-blue?style=flat-square&logo=cplusplus&labelColor=%23222222&color=%23fe0048) [![C++ Example 1](https://img.shields.io/badge/binary%2B%2B-blue?style=flat-square)](https://github.com/KojoBailey/binary-cpp-library) [![C++ Example 2](https://img.shields.io/badge/NUCC%2B%2B-blue?style=flat-square)](https://github.com/KojoBailey/nucc-cpp-library) [![C++ Example 3](https://img.shields.io/badge/JAPI_XFBIN_Merger-blue?style=flat-square)](https://github.com/KojoBailey/JAPI-XFBIN-Merger)
 
 My current "main" language. Started learning for modding, and have kept developing software in it since.
 
-![Haskell Badge](https://img.shields.io/badge/Haskell-blue?style=flat-square&logo=haskell&labelColor=%23222222&color=%23fe0048)
+![Haskell Badge](https://img.shields.io/badge/Haskell-blue?style=flat-square&logo=haskell&labelColor=%23222222&color=%23fe0048) [![Haskell Example 1](https://img.shields.io/badge/Worldle_Solver-blue?style=flat-square)](https://github.com/KojoBailey/wordle-solver-hs) [![Haskell Example 2](https://img.shields.io/badge/Command_Line_Calculator-blue?style=flat-square)](https://github.com/KojoBailey/command-line-calculator-hs)
 
 Introduced in university, a language that isn't particularly easy to use but is fascinating to learn about and weirdly fun all the same.
 
-![C# Badge](https://img.shields.io/badge/C%23-blue?style=flat-square&logo=unity&labelColor=%23222222&color=%23fe0048)
+![C# Badge](https://img.shields.io/badge/C%23-blue?style=flat-square&logo=unity&labelColor=%23222222&color=%23fe0048) [![C# Example 1](https://img.shields.io/badge/Shin_SvZ-blue?style=flat-square)](https://github.com/KojoBailey/Shin-Samurai-vs-Zombies-Defence)
 
 Learned solely for modding and creating games in [Unity](https://unity.com/), but I have my eyes on it for GUI development as an alternative to C++.
 
@@ -84,11 +84,11 @@ Learned solely for modding and creating games in [Unity](https://unity.com/), bu
 
 The scripting language of the web, I've mostly used it for [Anki](https://apps.ankiweb.net/) templates, of all things.
 
-![React Badge](https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white&labelColor=%23222222&color=%23fe0048)
+![React Badge](https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white&labelColor=%23222222&color=%23fe0048) [![React Example 1](https://img.shields.io/badge/jojomodding.com-blue?style=flat-square)](https://github.com/JoJosBizarreModdingCommunity/JoJosBizarreModdingCommunity.github.io)
 
 My go-to for actual web development, first learned when creating [jojomodding.com](https://jojomodding.com/), although I'm yet to explore other options.
 
-![Lua Badge](https://img.shields.io/badge/Lua-blue?style=flat-square&logo=lua&labelColor=%23222222&color=%23fe0048)
+![Lua Badge](https://img.shields.io/badge/Lua-blue?style=flat-square&logo=lua&labelColor=%23222222&color=%23fe0048) [![Lua Example 1](https://img.shields.io/badge/Module:Ref-blue?style=flat-square)](https://jojowiki.com/Module:Ref) [![Lua Example 2](https://img.shields.io/badge/Module:Upgrade_Table-blue?style=flat-square)](https://svzdefense.wiki.gg/wiki/Module:Upgrade_Table) [![Lua Example 3](https://img.shields.io/badge/Module:File_Info-blue?style=flat-square)](https://plantsvszombies.wiki.gg/wiki/Module:File_Info)
 
 First exposed to by [Roblox](https://create.roblox.com/), but later used for many MediaWiki modules via [Scribunto](https://www.mediawiki.org/wiki/Extension:Scribunto).
 
