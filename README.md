@@ -5,20 +5,20 @@
 <!-- https://icons8.com/ #fe0048 -->
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/kojo-bailey/"><!--
-    --><img height="36px" alt="LinkedIn" title="LinkedIn" src="https://github.com/KojoBailey/KojoBailey/blob/main/images/LinkedIn.svg"/></a>
+    --><img height="36px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/KojoBailey/KojoBailey/9596d14bc1bd02c902e2fcbb2b13c1d8ab635dee/images/LinkedIn.svg"/></a>
   &#8287;&#8287;&#8287;
   <a target="_blank" href="https://www.youtube.com/@KojoBailey"><!--
-    --><img height="36px" alt="YouTube" title="YouTube" src="https://github.com/KojoBailey/KojoBailey/blob/main/images/YouTube.svg"/></a>
+    --><img height="36px" alt="YouTube" title="YouTube" src="https://raw.githubusercontent.com/KojoBailey/KojoBailey/9596d14bc1bd02c902e2fcbb2b13c1d8ab635dee/images/YouTube.svg"/></a>
   &#8287;&#8287;&#8287;
   <a target="_blank" href="https://www.instagram.com/kojobailey/"><!--
-    --><img height="36px" alt="Instragram" title="Instragram" src="https://github.com/KojoBailey/KojoBailey/blob/main/images/Instagram.png"/></a>
+    --><img height="36px" alt="Instragram" title="Instragram" src="https://github.com/KojoBailey/KojoBailey/blob/main/images/Instagram.png?raw=true"/></a>
   &#8287;&#8287;&#8287;
   <a target="_blank" href="https://x.com/KojoBailey"><!--
-    --><img height="36px" alt="Twitter (X)" title="Twitter (X)" src="https://github.com/KojoBailey/KojoBailey/blob/main/images/Twitter.svg"/></a>
+    --><img height="36px" alt="Twitter (X)" title="Twitter (X)" src="https://raw.githubusercontent.com/KojoBailey/KojoBailey/9596d14bc1bd02c902e2fcbb2b13c1d8ab635dee/images/Twitter.svg"/></a>
 </p>
 
 <p align="center">
-  <a target="_blank" href="https://ko-fi.com/C0C3NIG2A"><img alt="Ko-fi" title="Ko-fi" src="https://github.com/KojoBailey/KojoBailey/blob/main/images/Ko-fi.svg"/></a>
+  <a target="_blank" href="https://ko-fi.com/C0C3NIG2A"><img alt="Ko-fi" title="Ko-fi" src="https://raw.githubusercontent.com/KojoBailey/KojoBailey/9596d14bc1bd02c902e2fcbb2b13c1d8ab635dee/images/Ko-fi.svg"/></a>
 </p>
 
 - 🔭 Working on videogame modding tools and DLL/API plugins.
