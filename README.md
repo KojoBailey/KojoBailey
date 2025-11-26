@@ -67,32 +67,68 @@ Despite this, I only fluently speak English, pero mi español no es terrible y l
   </picture>
 </div>
 
-### Languages I've actively used in projects
-[![Languages I've used](https://skillicons.dev/icons?i=cpp,haskell,unity,javascript,react,lua)](https://skillicons.dev)
+## Languages I've used "properly"
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-blue?style=flat-square&logo=cplusplus&labelColor=%23222222&color=%23fe0048)
 
-- **C++** → My current "main" language. Started learning for modding, and have kept developing software in it since.
-- **Haskell** → Introduced in university, a language that isn't particularly easy to use but is fascinating to learn about and weirdly fun all the same.
-- **C#** → Learned solely for modding and creating games in [Unity](https://unity.com/), but I have my eyes on it for GUI development as an alternative to C++.
-- **JavaScript** → The scripting language of the web, I've mostly used it for [Anki](https://apps.ankiweb.net/) templates, of all things.
-- **React JSX** → My go-to for actual web development, first learned when creating [jojomodding.com](https://jojomodding.com/), although I'm yet to explore other options.
-- **Lua** → First exposed to by [Roblox](https://create.roblox.com/), but later used for many MediaWiki modules via [Scribunto](https://www.mediawiki.org/wiki/Extension:Scribunto).
+My current "main" language. Started learning for modding, and have kept developing software in it since.
 
-### Languages I've only dabbled with
-[![Languages I've dabbled with](https://skillicons.dev/icons?i=c,py,x86)](https://skillicons.dev)
+![Haskell Badge](https://img.shields.io/badge/Haskell-blue?style=flat-square&logo=haskell&labelColor=%23222222&color=%23fe0048)
 
-- **C** → Although useful to learn, I haven't had much reason to use it over C++, and typically only have to work with it in actual projects when doing C-interop. I've also worked with C-like pseudocode when reverse engineering.
-- **Python** → Despite its popularity, I haven't at all needed it in my projects so far.
-- **x86 assembly** → Although I've been motivated to learn it for reverse engineering, I'm yet to have strong motivation to write anything beyond a "Hello, world!" program in it.
+Introduced in university, a language that isn't particularly easy to use but is fascinating to learn about and weirdly fun all the same.
 
-### Languages I want to try
-[![Languages to try](https://skillicons.dev/icons?i=rust,ocaml,zig,java,carbon,go)](https://skillicons.dev)
+![C# Badge](https://img.shields.io/badge/C%23-blue?style=flat-square&logo=unity&labelColor=%23222222&color=%23fe0048)
 
-- **Rust** → Besides being hailed as the great replacement for C++, I'm also interested in Rust for its ties to Haskell and functional programming in general.
-- **OCaml** → This also stands out to me for appearing to be a more practical Haskell, although I'm yet to confirm that. I do like a multi-paradigm language.
-- **Zig** → Although I do like OOP, I'm curious to try a language without it that is imperative and isn't C. I also like that it prioritises interopability with C, and its focus on memory control over Rust's memory safety may also be interesting to compare.
-- **Java** → Coming up in my university course anyway, but I'm interested to check out one of if not the biggest "C++ replacements" before Rust came along.
-- **Carbon** → Although still experimental, I'm very curious to see how this project compares not only to C++, but to Rust as well, as the latter would likely be its biggest competitor.
-- **Go** → To be honest, I know very little of Go and its usefulness, but I do know it was built by Google, so it's got to be interesting.
+Learned solely for modding and creating games in [Unity](https://unity.com/), but I have my eyes on it for GUI development as an alternative to C++.
+
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-blue?style=flat-square&logo=javascript&logoColor=white&labelColor=%23222222&color=%23fe0048)
+
+The scripting language of the web, I've mostly used it for [Anki](https://apps.ankiweb.net/) templates, of all things.
+
+![React Badge](https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white&labelColor=%23222222&color=%23fe0048)
+
+My go-to for actual web development, first learned when creating [jojomodding.com](https://jojomodding.com/), although I'm yet to explore other options.
+
+![Lua Badge](https://img.shields.io/badge/Lua-blue?style=flat-square&logo=lua&labelColor=%23222222&color=%23fe0048)
+
+First exposed to by [Roblox](https://create.roblox.com/), but later used for many MediaWiki modules via [Scribunto](https://www.mediawiki.org/wiki/Extension:Scribunto).
+
+## Languages I've dabbled with
+![C Badge](https://img.shields.io/badge/C-blue?style=flat-square&logo=c&logoColor=white&labelColor=%23222222&color=%23fe0048)
+
+Although useful to learn, I haven't had much reason to use it over C++, and typically only have to work with it in actual projects when doing C-interop. I've also worked with C-like pseudocode when reverse engineering.
+
+![Python Badge](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white&labelColor=%23222222&color=%23fe0048)
+
+Despite its popularity, I haven't at all needed it in my projects so far.
+
+![x86 Badge](https://img.shields.io/badge/x86_assembly-blue?style=flat-square&logo=cashapp&logoColor=white&labelColor=%23222222&color=%23fe0048)
+
+Although I've been motivated to learn it for reverse engineering, I'm yet to have strong motivation to write anything beyond a "Hello, world!" program in it.
+
+## Languages I'm eager to try
+![Rust Badge](https://img.shields.io/badge/Rust-blue?style=flat-square&logo=rust&logoColor=white&labelColor=%23222222&color=%23fe0048)
+
+Besides being hailed as the great replacement for C++, I'm also interested in Rust for its ties to Haskell and functional programming in general.
+
+![OCaml Badge](https://img.shields.io/badge/OCaml-blue?style=flat-square&logo=ocaml&logoColor=white&labelColor=%23222222&color=%23fe0048)
+
+This also stands out to me for appearing to be a more practical Haskell, although I'm yet to confirm that. I do like a multi-paradigm language.
+
+![Zig Badge](https://img.shields.io/badge/Zig-blue?style=flat-square&logo=zig&logoColor=white&labelColor=%23222222&color=%23fe0048)
+
+Although I do like OOP, I'm curious to try a language without it that is imperative and isn't C. I also like that it prioritises interopability with C, and its focus on memory control over Rust's memory safety may also be interesting to compare.
+
+![Java Badge](https://img.shields.io/badge/Java-blue?style=flat-square&logo=coffeescript&logoColor=white&labelColor=%23222222&color=%23fe0048)
+
+Coming up in my university course anyway, but I'm interested to check out one of if not the biggest "C++ replacements" before Rust came along.
+
+![Carbon Badge](https://img.shields.io/badge/Carbon-blue?style=flat-square&logo=google&logoColor=white&labelColor=%23222222&color=%23fe0048)
+
+Although still experimental, I'm very curious to see how this project compares not only to C++, but to Rust as well, as the latter would likely be its biggest competitor.
+
+![Go Badge](https://img.shields.io/badge/Go-blue?style=flat-square&logo=go&logoColor=white&labelColor=%23222222&color=%23fe0048)
+
+To be honest, I know very little of Go and its usefulness, but I do know it was built by Google, so it's got to be interesting.
 
 <p align="right"><i><code>Last updated: 2025-11-26</code></i></p>
 </details>
