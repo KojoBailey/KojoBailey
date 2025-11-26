@@ -68,7 +68,7 @@ Despite this, I only fluently speak English, pero mi español no es terrible y l
 </div>
 
 ## Languages I've used "properly"
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-blue?style=flat-square&logo=cplusplus&labelColor=%23222222&color=%23fe0048)
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-blue?style=flat-square&logo=cplusplus&labelColor=%23222222&color=%23fe0048) [![C++ Project 1](https://img.shields.io/badge/Project%201-blue?style=flat-square)](https://github.com/KojoBailey/binary-cpp-library) [![C++ Project 2](https://img.shields.io/badge/Project%202-blue?style=flat-square)](https://github.com/KojoBailey/nucc-cpp-library) [![C++ Project 3](https://img.shields.io/badge/Project%203-blue?style=flat-square)](https://github.com/KojoBailey/JAPI-XFBIN-Merger)
 
 My current "main" language. Started learning for modding, and have kept developing software in it since.
 
