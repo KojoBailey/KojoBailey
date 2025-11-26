@@ -94,4 +94,5 @@ Despite this, I only fluently speak English, pero mi español no es terrible y l
 - **Carbon** → Although still experimental, I'm very curious to see how this project compares not only to C++, but to Rust as well, as the latter would likely be its biggest competitor.
 - **Go** → To be honest, I know very little of Go and its usefulness, but I do know it was built by Google, so it's got to be interesting.
 
+<p align="right"><i><code>Last updated: 2025-11-26</code></i></p>
 </details>
