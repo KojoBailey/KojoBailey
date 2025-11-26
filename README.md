@@ -1,4 +1,21 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C3NIG2A)
+<!-- https://icons8.com/ #E6006D -->
+<p align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/kojo-bailey/"><!--
+    --><img height="36px" alt="LinkedIn" title="LinkedIn" src="https://github.com/KojoBailey/KojoBailey/blob/main/icons/LinkedIn.svg"/></a>
+  &#8287;&#8287;&#8287;
+  <a target="_blank" href="https://www.youtube.com/@KojoBailey"><!--
+    --><img height="36px" alt="YouTube" title="YouTube" src="https://github.com/KojoBailey/KojoBailey/blob/main/icons/YouTube.svg"/></a>
+  &#8287;&#8287;&#8287;
+  <a target="_blank" href="https://www.instagram.com/kojobailey/"><!--
+    --><img height="36px" alt="Instragram" title="Instragram" src="https://github.com/KojoBailey/KojoBailey/blob/main/icons/Instagram.png"/></a>
+  &#8287;&#8287;&#8287;
+  <a target="_blank" href="https://x.com/KojoBailey"><!--
+    --><img height="36px" alt="Twitter (X)" title="Twitter (X)" src="https://github.com/KojoBailey/KojoBailey/blob/main/icons/Twitter.svg"/></a>
+</p>
+
+<p align="center">
+  <a target="_blank" href="https://ko-fi.com/C0C3NIG2A"><img alt="Ko-fi" title="Ko-fi" src="https://ko-fi.com/img/githubbutton_sm.svg"/></a>
+</p>
 
 - 🔭 Working on videogame modding tools and DLL/API plugins.
 - 🌱 Building proficiency in C++ as my "main" language (for now).
@@ -41,18 +58,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=KojoBailey&theme=darkhub&title=-Issues,-PullRequest,-Reviews&row=2&column=3">
   </a>
-</div>
-
 <!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
-<div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KojoBailey&theme=monokai">
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KojoBailey&theme=monokai">
-  </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KojoBailey&theme=monokai">
   </a>
