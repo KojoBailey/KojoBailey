@@ -40,7 +40,7 @@ In pursuing the latter, I hope to develop ways to achieve the former, making use
 
 🌏 Ethnically, I am from the UK 🇬🇧, Ireland 🇮🇪, Ghana 🇬🇭, and Germany 🇩🇪, and I have lived in Kuala Lumpur 🇲🇾, Ho Chi Minh City 🇻🇳, La Palma 🇪🇸, Belfast 🍀, Doha 🇶🇦, and am currently in my first year at the University of Liverpool 🏫 for Computer Science BSc while my immediate family lives in Chennai 🇮🇳.
 
-Despite this, I only fluently speak English, pero mi español no es terrible y lo estudié en el colegio, and I'm also making efforts to learn Japanese 🇯🇵 and Mandarin Chinese 🇨🇳.
+Despite this, I only fluently speak English, pero mi español no es terrible y lo estudié en el colegio, and I'm also making efforts to learn both Japanese 🇯🇵 (日本はとても面白い) and Mandarin Chinese 🇨🇳 (我爱中文).
 
 ---
 
