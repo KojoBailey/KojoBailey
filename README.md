@@ -2,7 +2,7 @@
   <img src="https://yt3.googleusercontent.com/7r17XGuPuHq3pHYl-VJtHtSmZx98I9S96YZPKVS31NU1P6OD50W3chIbtJMHyboWr00esGJSng=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"/>
 </p>
 
-<p align="center"><i>"Jack of all trades, master of none, but oftentimes better than a master of one."</i></p>
+<p align="center">&#9733;&#8287;&#8287;<i>"Jack of all trades, master of none, but oftentimes better than a master of one."</i>&#8287;&#8287;&#9733;</p>
 
 <!-- https://icons8.com/ #fe0048 -->
 <p align="center">
