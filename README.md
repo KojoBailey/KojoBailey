@@ -27,27 +27,28 @@
 </p>
 
 <details>
-<summary><b>Click here to learn about me...</b></summary>
+<summary><b>💡 Click here to learn about me...</b></summary>
 
+<img alt="ASCII" align="right" height="180px" src="https://github.com/KojoBailey/KojoBailey/blob/main/images/ascii-art-200.png?raw=true"/>
 <br/>
 
-Welcome! My name is Kojo, and there are 2 key things I strive to dedicate myself to in life:
+Welcome! 🙌 My name is **Kojo**, and there are 2 key things I strive to dedicate myself to in life:
 1. The design and implementation of **systems** for users, and
 2. **Learning** new things and **sharing** knowledge with others.
 
 In pursuing the latter, I hope to develop ways to achieve the former, making use of programming and the power of **computer science**!
 
+🌏 Ethnically, I am from the UK 🇬🇧, Ireland 🇮🇪, Ghana 🇬🇭, and Germany 🇩🇪, and have lived in Kuala Lumpur 🇲🇾, Ho Chi Minh City 🇻🇳, La Palma 🇪🇸, Belfast 🍀, Doha 🇶🇦, and currently in my first year at the University of Liverpool 🏫 for Computer Science BSc.
+
+Despite this, I only fluently speak English, pero mi español no es terrible y lo estudié en el colegio, and I'm also making efforts to learn Japanese 🇯🇵 and Mandarin Chinese 🇨🇳.
+
 ---
 
-<img alt="ASCII" align="right" height="220px" src="https://github.com/KojoBailey/KojoBailey/blob/main/images/ascii-art-200.png?raw=true"/>
-
-I am currently...
-- 🔭 Working on videogame modding tools and DLL/API plugins.
-- 🌱 Building proficiency in C++ as my "main" language (for now).
-- 🎮 Developing my own fangames and mods in Unity with C#.
-- 🌐 Nurturing a love-hate relationship with web dev.
-- 🏫 Studying Haskell in university and out of interest for functional programming.
-- 👀 Keen to try out Rust, and maybe OCaml too...
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=KojoBailey&theme=darkhub&title=-Issues,-PullRequest,-Reviews&column=6">
+  </a>
+</div>
 
 ### Languages I've actively used in projects
 [![Languages I've used](https://skillicons.dev/icons?i=cpp,haskell,unity,javascript,react,lua)](https://skillicons.dev)
@@ -75,16 +76,5 @@ I am currently...
 - **Java** → Coming up in my university course anyway, but I'm interested to check out one of if not the biggest "C++ replacements" before Rust came along.
 - **Carbon** → Although still experimental, I'm very curious to see how this project compares not only to C++, but to Rust as well, as the latter would likely be its biggest competitor.
 - **Go** → To be honest, I know very little of Go and its usefulness, but I do know it was built by Google, so it's got to be interesting.
-
-### My stats
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KojoBailey&theme=darkhub&title=-Issues,-PullRequest,-Reviews&row=2&column=3">
-  </a>
-<!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KojoBailey&theme=monokai">
-  </a>
-</div>
 
 </details>
