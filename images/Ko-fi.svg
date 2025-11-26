@@ -1,9 +1,14 @@
 <svg width="223" height="30" viewBox="0 0 223 30" fill="none" xmlns="http://www.w3.org/2000/svg">
     <style>
-    svg:hover {
-        filter: brightness(1.1);
-        transition: filter 0.2s ease;
-    }
+        @keyframes flash {
+            0%   { filter: brightness(1); }
+            50%  { filter: brightness(1.2); }
+            100% { filter: brightness(1); }
+        }
+
+        svg {
+            animation: flash 3s ease-in-out infinite;
+        }
     </style>
     <g clip-path="url(#clip0_2178_644)">
         <path d="M215 0H8C3.58172 0 0 3.58172 0 8V22C0 26.4183 3.58172 30 8 30H215C219.418 30 223 26.4183 223 22V8C223 3.58172 219.418 0 215 0Z" fill="#ffbfd6ff"/>
