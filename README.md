@@ -132,5 +132,21 @@ Although still experimental, I'm very curious to see how this project compares n
 
 To be honest, I know very little of Go and its usefulness, but I do know it was built by Google, so it's got to be interesting.
 
+![Verse Badge](https://img.shields.io/badge/Verse-blue?style=flat-square&logo=unrealengine&logoColor=white&labelColor=%23222222&color=%23fe0048)
+
+Epic Games's new language for [Unreal Engine](https://www.unrealengine.com/) as an alternative to C++, more suited for the demands of game development! Very interesting indeed.
+
+![GDScript Badge](https://img.shields.io/badge/GDScript-blue?style=flat-square&logo=godotengine&logoColor=white&labelColor=%23222222&color=%23fe0048)
+
+Similar to Verse, GDScript is [Godot](https://godotengine.org/)'s custom language, although more similar to Python, which I find interesting.
+
+![Ruby](https://img.shields.io/badge/Ruby-blue?style=flat-square&logo=ruby&logoColor=white&labelColor=%23222222&color=%23fe0048)
+
+Not even sure how I came across Ruby, but given how its syntax is so different from other languages, I'm very interested in trying it out.
+
+![Curry](https://img.shields.io/badge/Curry-blue?style=flat-square&labelColor=%23222222&color=%23fe0048)
+
+An extension of Haskell that makes it multi-paradigm, I must try it out sometime.
+
 <p align="right"><i><code>Last updated: 2025-11-26</code></i></p>
 </details>
