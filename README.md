@@ -29,7 +29,9 @@
 <details>
 <summary><b>💡 Click here to learn about me...</b></summary>
 
-<img alt="ASCII" align="right" height="180px" src="https://github.com/KojoBailey/KojoBailey/blob/main/images/ASCII.png?raw=true"/>
+<a href="https://github.com/KojoBailey/image-to-ascii-cpp">
+  <img alt="ASCII" align="right" height="180px" src="https://github.com/KojoBailey/KojoBailey/blob/main/images/ASCII.png?raw=true"/>
+</a>
 <br/>
 
 Welcome! 🙌 My name is **Kojo**, and there are 2 key things I strive to dedicate myself to in life:
