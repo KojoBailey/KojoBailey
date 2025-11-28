@@ -148,5 +148,11 @@ Not even sure how I came across Ruby, but given how its syntax is so different f
 
 An extension of Haskell that makes it multi-paradigm, I must try it out sometime.
 
-<p align="right"><i><code>Last updated: 2025-11-27</code></i></p>
+![Fortran](https://img.shields.io/badge/Fortran-blue?style=flat-square&logo=fortran&logoColor=white&labelColor=%23222222&color=%23fe0048)
+
+The first high-level language ever created! On first glance, it looked nothing like I expected (which was for it to just be a simpler C), and I HAVE to try out its seemingly maths-based type system (e.g. "Real"s instead of "Float"s).
+
+![Lisp](https://img.shields.io/badge/Lisp-blue?style=flat-square&logo=commonlisp&logoColor=white&labelColor=%23222222&color=%23fe0048)
+
+The second high-level language ever created, and it's... functional??? Well, it certainly incorporates concepts from functional programming, and I'm honestly just shocked that the world's 2nd language wasn't just a Fortran clone.
 </details>
