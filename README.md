@@ -74,7 +74,7 @@ Despite this, I only fluently speak English, pero mi español no es terrible y l
 
 My current "main" language. Started learning for modding, and have kept developing software in it since.
 
-![Haskell Badge](https://img.shields.io/badge/Haskell-blue?style=flat-square&logo=haskell&labelColor=%23222222&color=%23fe0048) [![Haskell Example 1](https://img.shields.io/badge/Worldle_Solver-blue?style=flat-square)](https://github.com/KojoBailey/wordle-solver-hs) [![Haskell Example 2](https://img.shields.io/badge/Command_Line_Calculator-blue?style=flat-square)](https://github.com/KojoBailey/command-line-calculator-hs)
+![Haskell Badge](https://img.shields.io/badge/Haskell-blue?style=flat-square&logo=haskell&labelColor=%23222222&color=%23fe0048) [![Haskell Example 1](https://img.shields.io/badge/Worldle_Solver-blue?style=flat-square)](https://github.com/KojoBailey/wordle-solver-hs) [![Haskell Example 2](https://img.shields.io/badge/Image_to_ASCII-blue?style=flat-square)](https://github.com/KojoBailey/image-to-ascii-hs) [![Haskell Example 3](https://img.shields.io/badge/Command_Line_Calculator-blue?style=flat-square)](https://github.com/KojoBailey/command-line-calculator-hs)
 
 Introduced in university, a language that isn't particularly easy to use but is fascinating to learn about and weirdly fun all the same.
 
