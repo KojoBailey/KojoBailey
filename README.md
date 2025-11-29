@@ -29,7 +29,9 @@
 <details>
 <summary><b>💡 Click here to learn about me...</b></summary>
 
-<img alt="ASCII" align="right" height="180px" src="https://github.com/KojoBailey/KojoBailey/blob/main/images/ASCII.png?raw=true"/>
+<a href="https://github.com/KojoBailey/image-to-ascii-cpp">
+  <img alt="ASCII" align="right" height="180px" src="https://github.com/KojoBailey/KojoBailey/blob/main/images/ASCII.png?raw=true"/>
+</a>
 <br/>
 
 Welcome! 🙌 My name is **Kojo**, and there are 2 key things I strive to dedicate myself to in life:
@@ -72,7 +74,7 @@ Despite this, I only fluently speak English, pero mi español no es terrible y l
 
 My current "main" language. Started learning for modding, and have kept developing software in it since.
 
-![Haskell Badge](https://img.shields.io/badge/Haskell-blue?style=flat-square&logo=haskell&labelColor=%23222222&color=%23fe0048) [![Haskell Example 1](https://img.shields.io/badge/Worldle_Solver-blue?style=flat-square)](https://github.com/KojoBailey/wordle-solver-hs) [![Haskell Example 2](https://img.shields.io/badge/Command_Line_Calculator-blue?style=flat-square)](https://github.com/KojoBailey/command-line-calculator-hs)
+![Haskell Badge](https://img.shields.io/badge/Haskell-blue?style=flat-square&logo=haskell&labelColor=%23222222&color=%23fe0048) [![Haskell Example 1](https://img.shields.io/badge/Worldle_Solver-blue?style=flat-square)](https://github.com/KojoBailey/wordle-solver-hs) [![Haskell Example 2](https://img.shields.io/badge/Image_to_ASCII-blue?style=flat-square)](https://github.com/KojoBailey/image-to-ascii-hs) [![Haskell Example 3](https://img.shields.io/badge/Command_Line_Calculator-blue?style=flat-square)](https://github.com/KojoBailey/command-line-calculator-hs)
 
 Introduced in university, a language that isn't particularly easy to use but is fascinating to learn about and weirdly fun all the same.
 
@@ -130,5 +132,27 @@ Although still experimental, I'm very curious to see how this project compares n
 
 To be honest, I know very little of Go and its usefulness, but I do know it was built by Google, so it's got to be interesting.
 
-<p align="right"><i><code>Last updated: 2025-11-26</code></i></p>
+![Verse Badge](https://img.shields.io/badge/Verse-blue?style=flat-square&logo=unrealengine&logoColor=white&labelColor=%23222222&color=%23fe0048)
+
+Epic Games's new language for [Unreal Engine](https://www.unrealengine.com/) as an alternative to C++, more suited for the demands of game development! Very interesting indeed.
+
+![GDScript Badge](https://img.shields.io/badge/GDScript-blue?style=flat-square&logo=godotengine&logoColor=white&labelColor=%23222222&color=%23fe0048)
+
+Similar to Verse, GDScript is [Godot](https://godotengine.org/)'s custom language, although more similar to Python, which I find interesting.
+
+![Ruby](https://img.shields.io/badge/Ruby-blue?style=flat-square&logo=ruby&logoColor=white&labelColor=%23222222&color=%23fe0048)
+
+Not even sure how I came across Ruby, but given how its syntax is so different from other languages, I'm very interested in trying it out.
+
+![Curry](https://img.shields.io/badge/Curry-blue?style=flat-square&labelColor=%23222222&color=%23fe0048)
+
+An extension of Haskell that makes it multi-paradigm, I must try it out sometime.
+
+![Fortran](https://img.shields.io/badge/Fortran-blue?style=flat-square&logo=fortran&logoColor=white&labelColor=%23222222&color=%23fe0048)
+
+The first high-level language ever created! On first glance, it looked nothing like I expected (which was for it to just be a simpler C), and I HAVE to try out its seemingly maths-based type system (e.g. "Real"s instead of "Float"s).
+
+![Lisp](https://img.shields.io/badge/Lisp-blue?style=flat-square&logo=commonlisp&logoColor=white&labelColor=%23222222&color=%23fe0048)
+
+The second high-level language ever created, and it's... functional??? Well, it certainly incorporates concepts from functional programming, and I'm honestly just shocked that the world's 2nd language wasn't just a Fortran clone.
 </details>
