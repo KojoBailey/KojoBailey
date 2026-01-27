@@ -86,6 +86,10 @@ Learned solely for modding and creating games in [Unity](https://unity.com/), bu
 
 My go-to for actual web development, first learned when creating [jojomodding.com](https://jojomodding.com/), although I'm yet to explore other options.
 
+![GDScript Badge](https://img.shields.io/badge/GDScript-blue?style=flat-square&logo=godotengine&logoColor=white&labelColor=%23222222&color=%23fe0048) [![GDScript Example 1](https://img.shields.io/badge/SvZ2_Wave_Editor-blue?style=flat-square)](https://github.com/KojoBailey/svz2-wave-editor)
+
+[Godot](https://godotengine.org/)'s custom language, I find it interesting for its syntactic similarity to Python.
+
 ![Lua Badge](https://img.shields.io/badge/Lua-blue?style=flat-square&logo=lua&labelColor=%23222222&color=%23fe0048) [![Lua Example 1](https://img.shields.io/badge/Module:Ref-blue?style=flat-square)](https://jojowiki.com/Module:Ref) [![Lua Example 2](https://img.shields.io/badge/Module:Upgrade_Table-blue?style=flat-square)](https://svzdefense.wiki.gg/wiki/Module:Upgrade_Table) [![Lua Example 3](https://img.shields.io/badge/Module:File_Info-blue?style=flat-square)](https://plantsvszombies.wiki.gg/wiki/Module:File_Info)
 
 First exposed to by [Roblox](https://create.roblox.com/), but later used for many MediaWiki modules via [Scribunto](https://www.mediawiki.org/wiki/Extension:Scribunto).
@@ -135,10 +139,6 @@ To be honest, I know very little of Go and its usefulness, but I do know it was 
 ![Verse Badge](https://img.shields.io/badge/Verse-blue?style=flat-square&logo=unrealengine&logoColor=white&labelColor=%23222222&color=%23fe0048)
 
 Epic Games's new language for [Unreal Engine](https://www.unrealengine.com/) as an alternative to C++, more suited for the demands of game development! Very interesting indeed.
-
-![GDScript Badge](https://img.shields.io/badge/GDScript-blue?style=flat-square&logo=godotengine&logoColor=white&labelColor=%23222222&color=%23fe0048)
-
-Similar to Verse, GDScript is [Godot](https://godotengine.org/)'s custom language, although more similar to Python, which I find interesting.
 
 ![Ruby](https://img.shields.io/badge/Ruby-blue?style=flat-square&logo=ruby&logoColor=white&labelColor=%23222222&color=%23fe0048)
 
