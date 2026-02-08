@@ -72,13 +72,13 @@ Despite this, I only fluently speak English, pero mi español no es terrible y l
 ## Languages I've used "properly"
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-blue?style=flat-square&logo=cplusplus&labelColor=%23222222&color=%23fe0048) [![C++ Example 1](https://img.shields.io/badge/binary%2B%2B-blue?style=flat-square)](https://github.com/KojoBailey/binary-cpp-library) [![C++ Example 2](https://img.shields.io/badge/NUCC%2B%2B-blue?style=flat-square)](https://github.com/KojoBailey/nucc-cpp-library) [![C++ Example 3](https://img.shields.io/badge/JAPI_XFBIN_Merger-blue?style=flat-square)](https://github.com/KojoBailey/JAPI-XFBIN-Merger)
 
-My current "main" language. Started learning for modding, and have kept developing software in it since.
+My current "main" language. Started learning it for modding, and have kept developing software in it since, although I'm now looking for modern alternatives.
 
 ![Haskell Badge](https://img.shields.io/badge/Haskell-blue?style=flat-square&logo=haskell&labelColor=%23222222&color=%23fe0048) [![Haskell Example 1](https://img.shields.io/badge/Worldle_Solver-blue?style=flat-square)](https://github.com/KojoBailey/wordle-solver-hs) [![Haskell Example 2](https://img.shields.io/badge/Image_to_ASCII-blue?style=flat-square)](https://github.com/KojoBailey/image-to-ascii-hs) [![Haskell Example 3](https://img.shields.io/badge/Command_Line_Calculator-blue?style=flat-square)](https://github.com/KojoBailey/command-line-calculator-hs)
 
 Introduced in university, a language that isn't particularly easy to use but is fascinating to learn about and weirdly fun all the same.
 
-![C# Badge](https://img.shields.io/badge/C%23-blue?style=flat-square&logo=unity&labelColor=%23222222&color=%23fe0048) [![C# Example 1](https://img.shields.io/badge/Shin_SvZ-blue?style=flat-square)](https://github.com/KojoBailey/Shin-Samurai-vs-Zombies-Defence)
+![C# Badge](https://img.shields.io/badge/C%23-blue?style=flat-square&logo=unity&labelColor=%23222222&color=%23fe0048) [![C# Example 1](https://img.shields.io/badge/Shin_SvZ-blue?style=flat-square)](https://github.com/KojoBailey/Shin-Samurai-vs-Zombies-Defence) [![C# Example 2](https://img.shields.io/badge/SvZ2_Kaizen-blue?style=flat-square)](https://github.com/KojoBailey/SvZ2-Kaizen)
 
 Learned solely for modding and creating games in [Unity](https://unity.com/), but I have my eyes on it for GUI development as an alternative to C++.
 
@@ -92,12 +92,20 @@ My go-to for actual web development, first learned when creating [jojomodding.co
 
 ![Lua Badge](https://img.shields.io/badge/Lua-blue?style=flat-square&logo=lua&labelColor=%23222222&color=%23fe0048) [![Lua Example 1](https://img.shields.io/badge/Module:Ref-blue?style=flat-square)](https://jojowiki.com/Module:Ref) [![Lua Example 2](https://img.shields.io/badge/Module:Upgrade_Table-blue?style=flat-square)](https://svzdefense.wiki.gg/wiki/Module:Upgrade_Table) [![Lua Example 3](https://img.shields.io/badge/Module:File_Info-blue?style=flat-square)](https://plantsvszombies.wiki.gg/wiki/Module:File_Info)
 
-First exposed to by [Roblox](https://create.roblox.com/), but later used for many MediaWiki modules via [Scribunto](https://www.mediawiki.org/wiki/Extension:Scribunto).
+First exposed to by [Roblox](https://create.roblox.com/), but later used for many MediaWiki modules via [Scribunto](https://www.mediawiki.org/wiki/Extension:Scribunto). Also use it for Neovim, but that hardly counts.
 
 ## Languages I've dabbled with
 ![C Badge](https://img.shields.io/badge/C-blue?style=flat-square&logo=c&logoColor=white&labelColor=%23222222&color=%23fe0048)
 
-Although useful to learn, I haven't had much reason to use it over C++, and typically only have to work with it in actual projects when doing C-interop. I've also worked with C-like pseudocode when reverse engineering.
+Although useful to learn, I haven't had much reason to use it over C++, and typically only have to work with it in actual projects when doing C-interop. I've also worked with C-like pseudocode when reverse engineering. Ultimately, I imagine that it's better to just... code C-style in C++ anyway, since C++ does genuinely bring improvements in many areas, even if you don't fancy OOP (which you are not forced to use).
+
+![x86 Badge](https://img.shields.io/badge/x86_assembly-blue?style=flat-square&logo=cashapp&logoColor=white&labelColor=%23222222&color=%23fe0048) [![Assembly Example 1](https://img.shields.io/badge/Algorithms_in_ASM-blue?style=flat-square)](https://github.com/KojoBailey/algorithms-asm)
+
+Although I'm not making a fully-fledged app in it anytime soon, it's fun learning it for the sake of also learning more about low-level processes, which are useful in both software development and  reverse engineering.
+
+![Rust Badge](https://img.shields.io/badge/Rust-blue?style=flat-square&logo=rust&logoColor=white&labelColor=%23222222&color=%23fe0048) [![Rust Example 1](https://img.shields.io/badge/Algorithms_in_Rust-blue?style=flat-square)](https://github.com/KojoBailey/algorithms-rs)
+
+Quite frankly, I think C++'s flaws are too great to be fixed, and the programming space would benefit from a fresh start. That's why I'm rooting for Rust, as not only is it gaining popularity rapidly, but it's full of interesting design philosophies. In particular, I'm captivated by its relationship to Haskell and functional programming in general.
 
 ![Python Badge](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white&labelColor=%23222222&color=%23fe0048) [![Python Example 1](https://img.shields.io/badge/Number_Guesser-blue?style=flat-square)](https://github.com/KojoBailey/number-guesser-py)
 
@@ -107,18 +115,14 @@ Despite its popularity, I haven't at all needed it in my projects so far.
 
 The scripting language of the web, I've mostly used it for [Anki](https://apps.ankiweb.net/) templates, of all things. I have used React JSX, but I suppose it is different enough to separate.
 
-![x86 Badge](https://img.shields.io/badge/x86_assembly-blue?style=flat-square&logo=cashapp&logoColor=white&labelColor=%23222222&color=%23fe0048)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white&labelColor=%23222222&color=%23fe0048)
 
-Although I've been motivated to learn it for reverse engineering, I'm yet to have strong motivation to write anything beyond a "Hello, world!" program in it.
+JavaScript with static type checking! I'm currently using this in React TSX to develop a website.
 
 ## Languages I'm eager to try
-![Rust Badge](https://img.shields.io/badge/Rust-blue?style=flat-square&logo=rust&logoColor=white&labelColor=%23222222&color=%23fe0048)
-
-Besides being hailed as the great replacement for C++, I'm also interested in Rust for its ties to Haskell and functional programming in general.
-
 ![OCaml Badge](https://img.shields.io/badge/OCaml-blue?style=flat-square&logo=ocaml&logoColor=white&labelColor=%23222222&color=%23fe0048)
 
-This also stands out to me for appearing to be a more practical Haskell, although I'm yet to confirm that. I do like a multi-paradigm language.
+This stands out to me for appearing to be a more practical Haskell, although I'm yet to confirm that. I do like a multi-paradigm language.
 
 ![Zig Badge](https://img.shields.io/badge/Zig-blue?style=flat-square&logo=zig&logoColor=white&labelColor=%23222222&color=%23fe0048)
 
