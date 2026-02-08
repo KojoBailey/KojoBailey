@@ -69,7 +69,11 @@ Despite this, I only fluently speak English, pero mi español no es terrible y l
   </picture>
 </div>
 
+For many years, I used Visual Studio Code, but now use Neovim in PowerShell as my primary code editor. Unfortunately, I'm still tied to Windows (11), but have hopes of switching to Linux once I can afford a new laptop - I currently use an ASUS VivoBook with specs that leave a lot to be desired.
+
 ## Languages I've used "properly"
+[![Languages I've used](https://skillicons.dev/icons?i=cpp,haskell,cs,react,godot,lua)](https://skillicons.dev)
+
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-blue?style=flat-square&logo=cplusplus&labelColor=%23222222&color=%23fe0048) [![C++ Example 1](https://img.shields.io/badge/binary%2B%2B-blue?style=flat-square)](https://github.com/KojoBailey/binary-cpp-library) [![C++ Example 2](https://img.shields.io/badge/NUCC%2B%2B-blue?style=flat-square)](https://github.com/KojoBailey/nucc-cpp-library) [![C++ Example 3](https://img.shields.io/badge/JAPI_XFBIN_Merger-blue?style=flat-square)](https://github.com/KojoBailey/JAPI-XFBIN-Merger)
 
 My current "main" language. Started learning it for modding, and have kept developing software in it since, although I'm now looking for modern alternatives.
@@ -95,6 +99,8 @@ My go-to for actual web development, first learned when creating [jojomodding.co
 First exposed to by [Roblox](https://create.roblox.com/), but later used for many MediaWiki modules via [Scribunto](https://www.mediawiki.org/wiki/Extension:Scribunto). Also use it for Neovim, but that hardly counts.
 
 ## Languages I've dabbled with
+[![Languages I've dabbled with](https://skillicons.dev/icons?i=c,windows,rust,python,javascript,typescript)](https://skillicons.dev)
+
 ![C Badge](https://img.shields.io/badge/C-blue?style=flat-square&logo=c&logoColor=white&labelColor=%23222222&color=%23fe0048)
 
 Although useful to learn, I haven't had much reason to use it over C++, and typically only have to work with it in actual projects when doing C-interop. I've also worked with C-like pseudocode when reverse engineering. Ultimately, I imagine that it's better to just... code C-style in C++ anyway, since C++ does genuinely bring improvements in many areas, even if you don't fancy OOP (which you are not forced to use).
