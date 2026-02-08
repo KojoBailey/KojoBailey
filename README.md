@@ -99,7 +99,7 @@ My go-to for actual web development, first learned when creating [jojomodding.co
 First exposed to by [Roblox](https://create.roblox.com/), but later used for many MediaWiki modules via [Scribunto](https://www.mediawiki.org/wiki/Extension:Scribunto). Also use it for Neovim, but that hardly counts.
 
 ## Languages I've dabbled with
-[![Languages I've dabbled with](https://skillicons.dev/icons?i=c,windows,rust,python,javascript,typescript)](https://skillicons.dev)
+[![Languages I've dabbled with](https://skillicons.dev/icons?i=c,windows,rust,python,javascript,typescript,java)](https://skillicons.dev)
 
 ![C Badge](https://img.shields.io/badge/C-blue?style=flat-square&logo=c&logoColor=white&labelColor=%23222222&color=%23fe0048)
 
@@ -125,6 +125,10 @@ The scripting language of the web, I've mostly used it for [Anki](https://apps.a
 
 JavaScript with static type checking! I'm currently using this in React TSX to develop a website.
 
+![Java Badge](https://img.shields.io/badge/Java-blue?style=flat-square&logo=coffeescript&logoColor=white&labelColor=%23222222&color=%23fe0048)
+
+I'm now learning it in university, but am yet to do anything particularly interesting with it. My personal interest in the language lies in its failure as a replacement for C++.
+
 ## Languages I'm eager to try
 ![OCaml Badge](https://img.shields.io/badge/OCaml-blue?style=flat-square&logo=ocaml&logoColor=white&labelColor=%23222222&color=%23fe0048)
 
@@ -133,10 +137,6 @@ This stands out to me for appearing to be a more practical Haskell, although I'm
 ![Zig Badge](https://img.shields.io/badge/Zig-blue?style=flat-square&logo=zig&logoColor=white&labelColor=%23222222&color=%23fe0048)
 
 Although I do like OOP, I'm curious to try a language without it that is imperative and isn't C. I also like that it prioritises interopability with C, and its focus on memory control over Rust's memory safety may also be interesting to compare.
-
-![Java Badge](https://img.shields.io/badge/Java-blue?style=flat-square&logo=coffeescript&logoColor=white&labelColor=%23222222&color=%23fe0048)
-
-Coming up in my university course anyway, but I'm interested to check out one of if not the biggest "C++ replacements" before Rust came along.
 
 ![Carbon Badge](https://img.shields.io/badge/Carbon-blue?style=flat-square&logo=google&logoColor=white&labelColor=%23222222&color=%23fe0048)
 
