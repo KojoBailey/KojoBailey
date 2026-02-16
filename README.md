@@ -74,7 +74,7 @@ For many years, I used Visual Studio Code, but now use Neovim in PowerShell as m
 ## Languages I've used "properly"
 [![Languages I've used](https://skillicons.dev/icons?i=cpp,haskell,cs,react,godot,lua)](https://skillicons.dev)
 
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-blue?style=flat-square&logo=cplusplus&labelColor=%23222222&color=%23fe0048) [![C++ Example 1](https://img.shields.io/badge/binary%2B%2B-blue?style=flat-square)](https://github.com/KojoBailey/binary-cpp-library) [![C++ Example 2](https://img.shields.io/badge/NUCC%2B%2B-blue?style=flat-square)](https://github.com/KojoBailey/nucc-cpp-library) [![C++ Example 3](https://img.shields.io/badge/JAPI_XFBIN_Merger-blue?style=flat-square)](https://github.com/KojoBailey/JAPI-XFBIN-Merger)
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-blue?style=flat-square&logo=cplusplus&labelColor=%23222222&color=%23fe0048) [![C++ Example 1](https://img.shields.io/badge/binary%2B%2B-blue?style=flat-square)](https://github.com/KojoBailey/binary-cpp-library) [![C++ Example 2](https://img.shields.io/badge/NUCC%2B%2B-blue?style=flat-square)](https://github.com/KojoBailey/nucc-cpp-library) [![C++ Example 3](https://img.shields.io/badge/OpenGL_Playground-blue?style=flat-square)](https://github.com/KojoBailey/OpenGL-Playground)
 
 My current "main" language. Started learning it for modding, and have kept developing software in it since, although I'm now looking for modern alternatives.
 
@@ -99,7 +99,11 @@ My go-to for actual web development, first learned when creating [jojomodding.co
 First exposed to by [Roblox](https://create.roblox.com/), but later used for many MediaWiki modules via [Scribunto](https://www.mediawiki.org/wiki/Extension:Scribunto). Also use it for Neovim, but that hardly counts.
 
 ## Languages I've dabbled with
-[![Languages I've dabbled with](https://skillicons.dev/icons?i=c,windows,rust,python,javascript,typescript,java)](https://skillicons.dev)
+[![Languages I've dabbled with](https://skillicons.dev/icons?i=rust,c,windows,typescript,java,python,javascript)](https://skillicons.dev)
+
+![Rust Badge](https://img.shields.io/badge/Rust-blue?style=flat-square&logo=rust&logoColor=white&labelColor=%23222222&color=%23fe0048) [![Rust Example 1](https://img.shields.io/badge/JoJoAPI_Rust_Wrapper-blue?style=flat-square)](https://github.com/KojoBailey/japi-wrapper-rs) [![Rust Example 2](https://img.shields.io/badge/Algorithms_in_Rust-blue?style=flat-square)](https://github.com/KojoBailey/algorithms-rs)
+
+Quite frankly, I think C++'s flaws are too great to be fixed, and the programming space would benefit from a fresh start. That's why I'm rooting for Rust, as not only is it gaining popularity rapidly, but it's full of interesting design philosophies. In particular, I'm captivated by its relationship to Haskell and functional programming in general.
 
 ![C Badge](https://img.shields.io/badge/C-blue?style=flat-square&logo=c&logoColor=white&labelColor=%23222222&color=%23fe0048)
 
@@ -109,9 +113,13 @@ Although useful to learn, I haven't had much reason to use it over C++, and typi
 
 Although I'm not making a fully-fledged app in it anytime soon, it's fun learning it for the sake of also learning more about low-level processes, which are useful in both software development and  reverse engineering.
 
-![Rust Badge](https://img.shields.io/badge/Rust-blue?style=flat-square&logo=rust&logoColor=white&labelColor=%23222222&color=%23fe0048) [![Rust Example 1](https://img.shields.io/badge/Algorithms_in_Rust-blue?style=flat-square)](https://github.com/KojoBailey/algorithms-rs)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white&labelColor=%23222222&color=%23fe0048)
 
-Quite frankly, I think C++'s flaws are too great to be fixed, and the programming space would benefit from a fresh start. That's why I'm rooting for Rust, as not only is it gaining popularity rapidly, but it's full of interesting design philosophies. In particular, I'm captivated by its relationship to Haskell and functional programming in general.
+JavaScript with static type checking! I'm currently using this in React TSX to develop a website.
+
+![Java Badge](https://img.shields.io/badge/Java-blue?style=flat-square&logo=coffeescript&logoColor=white&labelColor=%23222222&color=%23fe0048) [![Java Example 1](https://img.shields.io/badge/COMP122_Labs-blue?style=flat-square)](https://github.com/KojoBailey/comp122-labs)
+
+I'm now learning it in university, but am yet to do anything particularly interesting with it. My personal interest in the language lies in its failure as a replacement for C++.
 
 ![Python Badge](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white&labelColor=%23222222&color=%23fe0048) [![Python Example 1](https://img.shields.io/badge/Number_Guesser-blue?style=flat-square)](https://github.com/KojoBailey/number-guesser-py)
 
@@ -120,14 +128,6 @@ Despite its popularity, I haven't at all needed it in my projects so far.
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-blue?style=flat-square&logo=javascript&logoColor=white&labelColor=%23222222&color=%23fe0048) [![JavaScript Example 1](https://img.shields.io/badge/Anki_Language_Card_Templates-blue?style=flat-square)](https://github.com/KojoBailey/anki-language-card-templates)
 
 The scripting language of the web, I've mostly used it for [Anki](https://apps.ankiweb.net/) templates, of all things. I have used React JSX, but I suppose it is different enough to separate.
-
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white&labelColor=%23222222&color=%23fe0048)
-
-JavaScript with static type checking! I'm currently using this in React TSX to develop a website.
-
-![Java Badge](https://img.shields.io/badge/Java-blue?style=flat-square&logo=coffeescript&logoColor=white&labelColor=%23222222&color=%23fe0048)
-
-I'm now learning it in university, but am yet to do anything particularly interesting with it. My personal interest in the language lies in its failure as a replacement for C++.
 
 ## Languages I'm eager to try
 ![OCaml Badge](https://img.shields.io/badge/OCaml-blue?style=flat-square&logo=ocaml&logoColor=white&labelColor=%23222222&color=%23fe0048)
