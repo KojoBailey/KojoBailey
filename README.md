@@ -117,7 +117,7 @@ Although I'm not making a fully-fledged app in it anytime soon, it's fun learnin
 
 JavaScript with static type checking! I'm currently using this in React TSX to develop a website.
 
-![Java Badge](https://img.shields.io/badge/Java-blue?style=flat-square&logo=coffeescript&logoColor=white&labelColor=%23222222&color=%23fe0048) [![Java Example 1](https://img.shields.io/badge/COMP122_Labs-blue?style=flat-square)](https://github.com/KojoBailey/comp122-labs)
+![Java Badge](https://img.shields.io/badge/Java-blue?style=flat-square&logo=coffeescript&logoColor=white&labelColor=%23222222&color=%23fe0048)
 
 I'm now learning it in university, but am yet to do anything particularly interesting with it. My personal interest in the language lies in its failure as a replacement for C++.
 
