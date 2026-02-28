@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://yt3.googleusercontent.com/7r17XGuPuHq3pHYl-VJtHtSmZx98I9S96YZPKVS31NU1P6OD50W3chIbtJMHyboWr00esGJSng=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"/>
+  <img src="https://raw.githubusercontent.com/KojoBailey/KojoBailey/refs/heads/main/images/YT%20Cover%20strip.png"/>
 </p>
 
 <p align="center">&#9733;&#8287;&#8287;<i>"Jack of all trades, master of none, but oftentimes better than a master of one."</i>&#8287;&#8287;&#9733;</p>
