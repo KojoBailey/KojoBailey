@@ -2,7 +2,11 @@
   <img src="https://raw.githubusercontent.com/KojoBailey/KojoBailey/refs/heads/main/images/YT%20Cover%20strip.png"/>
 </p>
 
-<p align="center">&#9733;&#8287;&#8287;<i>"Jack of all trades, master of none, but oftentimes better than a master of one."</i>&#8287;&#8287;&#9733;</p>
+<div align="center">
+&#9733;&#8287;&#8287;<i>"Jack of all trades, master of none, but oftentimes better than a master of one."</i>&#8287;&#8287;&#9733;
+
+[kojobailey.me](https://kojobailey.me)
+</div>
 
 <!-- https://icons8.com/ #fe0048 -->
 <p align="center">
