@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KojoBailey/KojoBailey/refs/heads/main/images/YT%20Cover%20strip.png"/>
+  <img src="https://kojobailey.me/banner.png"/>
 </p>
 
 <div align="center">
