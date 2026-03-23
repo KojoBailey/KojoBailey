@@ -103,11 +103,15 @@ My go-to for actual web development, first learned when creating [jojomodding.co
 First exposed to by [Roblox](https://create.roblox.com/), but later used for many MediaWiki modules via [Scribunto](https://www.mediawiki.org/wiki/Extension:Scribunto). Also use it for Neovim, but that hardly counts.
 
 ## Languages I've dabbled with
-[![Languages I've dabbled with](https://skillicons.dev/icons?i=rust,c,windows,typescript,java,python,javascript)](https://skillicons.dev)
+[![Languages I've dabbled with](https://skillicons.dev/icons?i=rust,ocaml,c,windows,typescript,java,python,javascript)](https://skillicons.dev)
 
 ![Rust Badge](https://img.shields.io/badge/Rust-blue?style=flat-square&logo=rust&logoColor=white&labelColor=%23222222&color=%23fe0048) [![Rust Example 1](https://img.shields.io/badge/JoJoAPI_Rust_Wrapper-blue?style=flat-square)](https://github.com/KojoBailey/japi-wrapper-rs) [![Rust Example 2](https://img.shields.io/badge/Algorithms_in_Rust-blue?style=flat-square)](https://github.com/KojoBailey/algorithms-rs)
 
 Quite frankly, I think C++'s flaws are too great to be fixed, and the programming space would benefit from a fresh start. That's why I'm rooting for Rust, as not only is it gaining popularity rapidly, but it's full of interesting design philosophies. In particular, I'm captivated by its relationship to Haskell and functional programming in general.
+
+![OCaml Badge](https://img.shields.io/badge/OCaml-blue?style=flat-square&logo=ocaml&logoColor=white&labelColor=%23222222&color=%23fe0048) [![OCaml Example 1](https://img.shields.io/badge/CLI_Calculator-blue?style=flat-square)](https://github.com/KojoBailey/cli-calculator-ocaml)
+
+A descendant of ML, it is full of many fascinating features and design choices, but its age does show. It's lovely to see how it has influenced Rust, and I'm glad Rust implements so many of its features without relying on garbage collection.
 
 ![C Badge](https://img.shields.io/badge/C-blue?style=flat-square&logo=c&logoColor=white&labelColor=%23222222&color=%23fe0048)
 
@@ -134,10 +138,6 @@ Despite its popularity, I haven't at all needed it in my projects so far.
 The scripting language of the web, I've mostly used it for [Anki](https://apps.ankiweb.net/) templates, of all things. I have used React JSX, but I suppose it is different enough to separate.
 
 ## Languages I'm eager to try
-![OCaml Badge](https://img.shields.io/badge/OCaml-blue?style=flat-square&logo=ocaml&logoColor=white&labelColor=%23222222&color=%23fe0048)
-
-This stands out to me for appearing to be a more practical Haskell, although I'm yet to confirm that. I do like a multi-paradigm language.
-
 ![Zig Badge](https://img.shields.io/badge/Zig-blue?style=flat-square&logo=zig&logoColor=white&labelColor=%23222222&color=%23fe0048)
 
 Although I do like OOP, I'm curious to try a language without it that is imperative and isn't C. I also like that it prioritises interopability with C, and its focus on memory control over Rust's memory safety may also be interesting to compare.
