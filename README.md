@@ -107,7 +107,7 @@ First exposed to by [Roblox](https://create.roblox.com/), but later used for man
 
 ![Rust Badge](https://img.shields.io/badge/Rust-blue?style=flat-square&logo=rust&logoColor=white&labelColor=%23222222&color=%23fe0048) [![Rust Example 1](https://img.shields.io/badge/JoJoAPI_Rust_Wrapper-blue?style=flat-square)](https://github.com/KojoBailey/japi-wrapper-rs) [![Rust Example 2](https://img.shields.io/badge/Algorithms_in_Rust-blue?style=flat-square)](https://github.com/KojoBailey/algorithms-rs)
 
-Quite frankly, I think C++'s flaws are too great to be fixed, and the programming space would benefit from a fresh start. That's why I'm rooting for Rust, as not only is it gaining popularity rapidly, but it's full of interesting design philosophies. In particular, I'm captivated by its relationship to Haskell and functional programming in general.
+Quite frankly, I think C++ has too many fundamental flaws that cannot be fixed without breaking backwards-compatability, and that the programming space would benefit from a clean slate. That's why I'm rooting for Rust, as not only is it gaining popularity rapidly, but it's full of interesting design philosophies. In particular, I'm captivated by its relationship to Haskell and functional programming in general.
 
 ![OCaml Badge](https://img.shields.io/badge/OCaml-blue?style=flat-square&logo=ocaml&logoColor=white&labelColor=%23222222&color=%23fe0048) [![OCaml Example 1](https://img.shields.io/badge/CLI_Calculator-blue?style=flat-square)](https://github.com/KojoBailey/cli-calculator-ocaml)
 
@@ -149,6 +149,10 @@ Although still experimental, I'm very curious to see how this project compares n
 ![Go Badge](https://img.shields.io/badge/Go-blue?style=flat-square&logo=go&logoColor=white&labelColor=%23222222&color=%23fe0048)
 
 To be honest, I know very little of Go and its usefulness, but I do know it was built by Google, so it's got to be interesting.
+
+![Nim Badge](https://img.shields.io/badge/Nim-blue?style=flat-square&logo=nim&logoColor=white&labelColor=%23222222&color=%23fe0048)
+
+I know very little about Nim, but it's often brought up in the same discussions and Zig, Go, and C3, and its approach to Python-like syntax is also quite interesting.
 
 ![Verse Badge](https://img.shields.io/badge/Verse-blue?style=flat-square&logo=unrealengine&logoColor=white&labelColor=%23222222&color=%23fe0048)
 
