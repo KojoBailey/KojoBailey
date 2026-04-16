@@ -173,4 +173,8 @@ The first high-level language ever created! On first glance, it looked nothing l
 ![Lisp](https://img.shields.io/badge/Lisp-blue?style=flat-square&logo=commonlisp&logoColor=white&labelColor=%23222222&color=%23fe0048)
 
 The second high-level language ever created, and it's... functional??? Well, it certainly incorporates concepts from functional programming, and I'm honestly just shocked that the world's 2nd language wasn't just a Fortran clone.
+
+![Nadeshiko](https://img.shields.io/badge/なでしこ-blue?style=flat-square&logo=4chan&logoColor=white&labelColor=%23222222&color=%23fe0048)
+
+A programming language that reads like (fairly) normal Japanese sentences! Besides being good Japanese practice, is also interesting to explore how languages with more structured and consistent grammar than English fair as programming languages.
 </details>
