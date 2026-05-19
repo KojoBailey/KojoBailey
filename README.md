@@ -30,6 +30,10 @@
   <a href="https://ko-fi.com/C0C3NIG2A"><img alt="Ko-fi" title="Ko-fi" src="https://raw.githubusercontent.com/KojoBailey/KojoBailey/80a1729d90411163e04df365a5ba981f4512b68f/images/Ko-fi.svg"/></a>
 </p>
 
+<p align="center">
+  i use <a href="https://github.com/KojoBailey/hyprland-dotfiles">Arch</a> btw
+</p>
+
 <details>
 <summary><b>💡 Click here to learn about me...</b></summary>
 
