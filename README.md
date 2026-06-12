@@ -107,7 +107,7 @@ My go-to for actual web development, first learned when creating [jojomodding.co
 First exposed to by [Roblox](https://create.roblox.com/), but later used for many MediaWiki modules via [Scribunto](https://www.mediawiki.org/wiki/Extension:Scribunto). Also use it for Neovim, but that hardly counts.
 
 ## Languages I've dabbled with
-[![Languages I've dabbled with](https://skillicons.dev/icons?i=rust,ocaml,odin,c,windows,typescript,java,python,javascript)](https://skillicons.dev)
+[![Languages I've dabbled with](https://skillicons.dev/icons?i=rust,ocaml,odin,c,linux,typescript,java,python,javascript)](https://skillicons.dev)
 
 ![Rust Badge](https://img.shields.io/badge/Rust-blue?style=flat-square&logo=rust&logoColor=white&labelColor=%23222222&color=%23fe0048) [![Rust Example 1](https://img.shields.io/badge/JoJoAPI_Rust_Wrapper-blue?style=flat-square)](https://github.com/KojoBailey/japi-wrapper-rs) [![Rust Example 2](https://img.shields.io/badge/Algorithms_in_Rust-blue?style=flat-square)](https://github.com/KojoBailey/algorithms-rs)
 
@@ -165,6 +165,10 @@ I know very little about Nim, but it's often brought up in the same discussions 
 ![Verse Badge](https://img.shields.io/badge/Verse-blue?style=flat-square&logo=unrealengine&logoColor=white&labelColor=%23222222&color=%23fe0048)
 
 Epic Games's new language for [Unreal Engine](https://www.unrealengine.com/) as an alternative to C++, more suited for the demands of game development! Very interesting indeed.
+
+![Kotlin Badge](https://img.shields.io/badge/Kotlin-blue?style=flat-square&logo=kotlin&logoColor=white&labelColor=%23222222&color=%23fe0048)
+
+Java has been given a much needed upgrade. Does that mean all of its problems are solved? Probably not, but I think it'd be interesting to at least give Kotlin a try.
 
 ![Ruby](https://img.shields.io/badge/Ruby-blue?style=flat-square&logo=ruby&logoColor=white&labelColor=%23222222&color=%23fe0048)
 
