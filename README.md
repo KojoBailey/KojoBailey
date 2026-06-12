@@ -107,7 +107,7 @@ My go-to for actual web development, first learned when creating [jojomodding.co
 First exposed to by [Roblox](https://create.roblox.com/), but later used for many MediaWiki modules via [Scribunto](https://www.mediawiki.org/wiki/Extension:Scribunto). Also use it for Neovim, but that hardly counts.
 
 ## Languages I've dabbled with
-[![Languages I've dabbled with](https://skillicons.dev/icons?i=rust,ocaml,c,windows,typescript,java,python,javascript)](https://skillicons.dev)
+[![Languages I've dabbled with](https://skillicons.dev/icons?i=rust,ocaml,odin,c,windows,typescript,java,python,javascript)](https://skillicons.dev)
 
 ![Rust Badge](https://img.shields.io/badge/Rust-blue?style=flat-square&logo=rust&logoColor=white&labelColor=%23222222&color=%23fe0048) [![Rust Example 1](https://img.shields.io/badge/JoJoAPI_Rust_Wrapper-blue?style=flat-square)](https://github.com/KojoBailey/japi-wrapper-rs) [![Rust Example 2](https://img.shields.io/badge/Algorithms_in_Rust-blue?style=flat-square)](https://github.com/KojoBailey/algorithms-rs)
 
@@ -135,7 +135,7 @@ JavaScript with static type checking! I'm currently using this in React TSX to d
 
 ![Java Badge](https://img.shields.io/badge/Java-blue?style=flat-square&logo=coffeescript&logoColor=white&labelColor=%23222222&color=%23fe0048)
 
-I'm now learning it in university, but am yet to do anything particularly interesting with it. My personal interest in the language lies in its failure as a replacement for C++.
+Forced to learn Java in university, I can't say I enjoyed it very much, nor did we learn to do anything particularly interesting. It was really just a device to teach OOP despite me already knowing it from C++. If I ever touch Java again, it will be through Kotlin!
 
 ![Python Badge](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white&labelColor=%23222222&color=%23fe0048) [![Python Example 1](https://img.shields.io/badge/Number_Guesser-blue?style=flat-square)](https://github.com/KojoBailey/number-guesser-py)
 
