@@ -117,6 +117,10 @@ Quite frankly, I think C++ has too many fundamental flaws that cannot be fixed w
 
 A descendant of ML, it is full of many fascinating features and design choices, but its age does show. It's lovely to see how it has influenced Rust, and I'm glad Rust implements so many of its features without relying on garbage collection.
 
+![Odin Badge](https://img.shields.io/badge/Odin-blue?style=flat-square&logo=odin&logoColor=white&labelColor=%23222222&color=%23fe0048) [![Odin Example 1](https://img.shields.io/badge/Pong-blue?style=flat-square)](https://github.com/KojoBailey/pong-odin)
+
+I was quite excited to try Odin out, primarily due to it breaking traditional C syntax (to an extent), but I was disappointed to find that it lacks good encapsulation features. Functions cannot be bound to structs, and I find that quite annoying - very C-like in that regard, but in a bad way. Still, maybe I'll find that there's more merit to the language than I have realised so far.
+
 ![C Badge](https://img.shields.io/badge/C-blue?style=flat-square&logo=c&logoColor=white&labelColor=%23222222&color=%23fe0048)
 
 Although useful to learn, I haven't had much reason to use it over C++, and typically only have to work with it in actual projects when doing C-interop. I've also worked with C-like pseudocode when reverse engineering. Ultimately, I imagine that it's better to just... code C-style in C++ anyway, since C++ does genuinely bring improvements in many areas, even if you don't fancy OOP (which you are not forced to use).
