@@ -107,7 +107,7 @@ My go-to for actual web development, first learned when creating [jojomodding.co
 First exposed to by [Roblox](https://create.roblox.com/), but later used for many MediaWiki modules via [Scribunto](https://www.mediawiki.org/wiki/Extension:Scribunto). Also use it for Neovim, but that hardly counts.
 
 ## Languages I've dabbled with
-[![Languages I've dabbled with](https://skillicons.dev/icons?i=rust,ocaml,odin,c,linux,typescript,java,python,javascript)](https://skillicons.dev)
+[![Languages I've dabbled with](https://skillicons.dev/icons?i=rust,ocaml,nim,odin,c,linux,typescript,java,python,javascript)](https://skillicons.dev)
 
 ![Rust Badge](https://img.shields.io/badge/Rust-blue?style=flat-square&logo=rust&logoColor=white&labelColor=%23222222&color=%23fe0048) [![Rust Example 1](https://img.shields.io/badge/JoJoAPI_Rust_Wrapper-blue?style=flat-square)](https://github.com/KojoBailey/japi-wrapper-rs) [![Rust Example 2](https://img.shields.io/badge/Algorithms_in_Rust-blue?style=flat-square)](https://github.com/KojoBailey/algorithms-rs)
 
