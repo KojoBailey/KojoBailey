@@ -77,8 +77,6 @@ Despite this, I only fluently speak English, pero mi español no es terrible y l
   </picture>
 </div>
 
-For many years, I used Visual Studio Code, but now use Neovim in PowerShell as my primary code editor. Unfortunately, I'm still tied to Windows (11), but have hopes of switching to Linux once I can afford a new laptop - I currently use an ASUS VivoBook with specs that leave a lot to be desired.
-
 ## Languages I've used "properly"
 [![Languages I've used](https://skillicons.dev/icons?i=cpp,haskell,cs,react,godot,lua)](https://skillicons.dev)
 
