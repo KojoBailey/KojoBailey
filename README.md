@@ -117,6 +117,10 @@ Quite frankly, I think C++ has too many fundamental flaws that cannot be fixed w
 
 A descendant of ML, it is full of many fascinating features and design choices, but its age does show. It's lovely to see how it has influenced Rust, and I'm glad Rust implements so many of its features without relying on garbage collection.
 
+![Nim Badge](https://img.shields.io/badge/Nim-blue?style=flat-square&logo=nim&logoColor=white&labelColor=%23222222&color=%23fe0048) [![Nim Example 1](https://img.shields.io/badge/Snake-blue?style=flat-square)](https://github.com/KojoBailey/snake-nim)
+
+Nim has to be one of my favourite languages syntax-wise so far, since I really appreciate how it unapologetic it is in breaking conventional C syntax, and I really do find it to be quite nice to read as a result. However, I find this language lacking feature-wise. OOP is only partially supported since you can't attach methods to structs; instead, you must define global functions that take a `self` as the first parameter. I much prefer how Rust and Zig make you do it. I also find the deal with pointers and references quite confusing at times, but it is interesting how the compiler will automatically deduce whether to pass by value or reference, and I wonder if there are any situations where this could prove problematic.
+
 ![Odin Badge](https://img.shields.io/badge/Odin-blue?style=flat-square&logo=odin&logoColor=white&labelColor=%23222222&color=%23fe0048) [![Odin Example 1](https://img.shields.io/badge/Pong-blue?style=flat-square)](https://github.com/KojoBailey/pong-odin)
 
 I was quite excited to try Odin out, primarily due to it breaking traditional C syntax (to an extent), but I was disappointed to find that it lacks good encapsulation features. Functions cannot be bound to structs, and I find that quite annoying - very C-like in that regard, but in a bad way. Still, maybe I'll find that there's more merit to the language than I have realised so far.
@@ -157,10 +161,6 @@ Although still experimental, I'm very curious to see how this project compares n
 ![Go Badge](https://img.shields.io/badge/Go-blue?style=flat-square&logo=go&logoColor=white&labelColor=%23222222&color=%23fe0048)
 
 To be honest, I know very little of Go and its usefulness, but I do know it was built by Google, so it's got to be interesting.
-
-![Nim Badge](https://img.shields.io/badge/Nim-blue?style=flat-square&logo=nim&logoColor=white&labelColor=%23222222&color=%23fe0048)
-
-I know very little about Nim, but it's often brought up in the same discussions and Zig, Go, and C3, and its approach to Python-like syntax is also quite interesting.
 
 ![Verse Badge](https://img.shields.io/badge/Verse-blue?style=flat-square&logo=unrealengine&logoColor=white&labelColor=%23222222&color=%23fe0048)
 
