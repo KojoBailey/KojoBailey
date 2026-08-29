@@ -78,11 +78,15 @@ Despite this, I only fluently speak English, pero mi español no es terrible y l
 </div>
 
 ## Languages I've used "properly"
-[![Languages I've used](https://skillicons.dev/icons?i=cpp,haskell,cs,react,godot,lua)](https://skillicons.dev)
+[![Languages I've used](https://skillicons.dev/icons?i=cpp,mojo,haskell,cs,react,godot,lua)](https://skillicons.dev)
 
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-blue?style=flat-square&logo=cplusplus&labelColor=%23222222&color=%23fe0048) [![C++ Example 1](https://img.shields.io/badge/binary%2B%2B-blue?style=flat-square)](https://github.com/KojoBailey/binary-cpp-library) [![C++ Example 2](https://img.shields.io/badge/NUCC%2B%2B-blue?style=flat-square)](https://github.com/KojoBailey/nucc-cpp-library) [![C++ Example 3](https://img.shields.io/badge/OpenGL_Playground-blue?style=flat-square)](https://github.com/KojoBailey/OpenGL-Playground)
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-blue?style=flat-square&logo=cplusplus&labelColor=%23222222&color=%23fe0048) [![C++ Example 1](https://img.shields.io/badge/binary%2B%2B-blue?style=flat-square)](https://github.com/KojoBailey/binary-cpp-library) [![C++ Example 2](https://img.shields.io/badge/NUCC%2B%2B-blue?style=flat-square)](https://github.com/KojoBailey/nucc-cpp-library) [![C++ Example 3](https://img.shields.io/badge/FreeWare-blue?style=flat-square)](https://github.com/KojoBailey/freeware)
 
 My current "main" language. Started learning it for modding, and have kept developing software in it since, although I'm now looking for modern alternatives.
+
+![Mojo Badge](https://img.shields.io/badge/Mojo🔥-blue?style=flat-square&logo=fireship&labelColor=%23222222&color=%23fe0048) [![Mojo Example 1](https://img.shields.io/badge/XFBIN_Parser-blue?style=flat-square)](https://github.com/KojoBailey/xfbin-parser-mojo) [![Mojo Example 2](https://img.shields.io/badge/Game_of_Life-blue?style=flat-square)](https://github.com/KojoBailey/mojo-game-of-life)
+
+A relatively new language that I am excited to follow the developments of! It rivals C++ and Rust as a systems-level programming language, and it has awesome metaprogramming abilities that do not rely on macros as Rust does. Hopefully, depending on how it evolves, I will be able to switch to it as my main language of choice.
 
 ![Haskell Badge](https://img.shields.io/badge/Haskell-blue?style=flat-square&logo=haskell&labelColor=%23222222&color=%23fe0048) [![Haskell Example 1](https://img.shields.io/badge/Worldle_Solver-blue?style=flat-square)](https://github.com/KojoBailey/wordle-solver-hs) [![Haskell Example 2](https://img.shields.io/badge/Image_to_ASCII-blue?style=flat-square)](https://github.com/KojoBailey/image-to-ascii-hs) [![Haskell Example 3](https://img.shields.io/badge/CLI_Calculator-blue?style=flat-square)](https://github.com/KojoBailey/cli-calculator-hs)
 
